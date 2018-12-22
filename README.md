@@ -1,5 +1,5 @@
 # Chatbot
-<img src="https://drive.google.com/file/d/1z6AmSBdotIq9dPWKVv43pNDqKzjCCYkC/view?usp=sharing" alt="My cool logo"/>
+<img src="https://github.com/Ayushsinghcs/Chat-bot/blob/master/src/Screenshot%20from%202018-12-22%2022-22-40.png" alt="My cool logo"/>
 
 
 
